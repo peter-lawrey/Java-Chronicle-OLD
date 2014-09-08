@@ -1,5 +1,5 @@
-Java-Chronicle
-==============
+Project Has Moved
+=================
 
 
-# THIS PROJECT HAS BEEN REMANED AND MOVED TO [Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue)
+This project has been moved to  [Chronicle Queue ( click here ) ](https://github.com/OpenHFT/Chronicle-Queue)
