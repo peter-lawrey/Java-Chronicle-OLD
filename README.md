@@ -1,4 +1,4 @@
-Java-Chronicle has Moved
+Java-Chronicle has moved
 ========================
 
 
